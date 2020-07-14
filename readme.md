@@ -3,7 +3,7 @@ First Download All File
 
 if u want to run spacegame just Extract floder name "dist"
 
-then u open SpaceGame folder and find SpaceGame.exe after that open it
+then u open "SpaceGame" folder and find "SpaceGame.exe" after that open it
 
 
 use "Left" to move player to the left
